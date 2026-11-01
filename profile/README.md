@@ -24,6 +24,16 @@ Two interactive artifacts are part of the article rather than illustrations besi
 
 [Read the article →](https://rw.krupnyak.com/articles/experimental-recursewright-engineering-on-moving-ground/)
 
+**The Cube That Doesn't Wait for a Command**
+
+What happens when a system can change without waiting for an external command? And what happens to conclusions we carry forward when their context changes?
+
+The second *Experimental RecurseWright* article follows those questions from a terminal command to an evolving system, with an interactive code review along the way.
+
+[Read the article](https://rw.krupnyak.com/articles/experimental-recursewright-the-cube-that-doesnt-wait-for-a-command/)
+
+[Try A Small Code Review v1](https://rw.krupnyak.com/artifacts/a-small-code-review/)
+
 ---
 
 ## Earlier traces
